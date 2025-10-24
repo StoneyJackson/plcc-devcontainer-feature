@@ -1,0 +1,11 @@
+{
+    "name": "PLCC",
+    "id": "plcc",
+    "version": "0.0.1",
+    "description": "Use PLCC in your DevContainer.",
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/git:1": {},
+        "ghcr.io/devcontainers/features/java:1": {},
+        "ghcr.io/devcontainers/features/python:1": {}
+    }
+}
